@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @andraz404
+- 👀 I'm interested in cryptocurrency bots
+- 🌱 I'm currently learning python and javascript programming
+- ⚡ Interesting fact: I am an expert in Graphic Design and Video Editor
